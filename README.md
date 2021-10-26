@@ -32,7 +32,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     gatsby develop
     ```
 
-1.  **Open the source code and start editing!**
+1.  **Open the source codez and start editing!**
 
     Your site is now running at `http://localhost:8000`!
 
