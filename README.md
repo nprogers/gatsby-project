@@ -10,7 +10,7 @@
 
 Kick off your project with this default boilerplatedfsafdsafdsa. This starter shipssszzz with the main Gatsby configuration files you might need to get up and running blazing fast with the bdfsafdslazing fast app generator for React.dfsafdsa
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._fdsafdsfasdssdvs
+_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._fdsafdsfasdssdvsfdafds
 
 ## 🚀 Quick start
 
